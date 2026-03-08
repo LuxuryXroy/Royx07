@@ -3733,7 +3733,7 @@ end
 -- ===== FLUENT UI SETUP =====
 local vu32 = loadstring(game:HttpGet("https://raw.githubusercontent.com/PlockScripts/Library-ui/refs/heads/main/redz-V5-remake/main.luau"))()
 local v466 = vu32:MakeWindow({
-    Title = "Switch Hub - Premium",
+    Title = "Huyenbel Hub - Premium",
     SubTitle = "Blox Fruits",
     SaveFolder = "SwitchHub"
 })
